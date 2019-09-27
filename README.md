@@ -8,3 +8,5 @@ It is a task queue and I am hoping to learn the following:
 
 ##choosing and installing a message transport?
 I basically used default broker which is rabbitMQ.
+
+RabbitMQ updated
