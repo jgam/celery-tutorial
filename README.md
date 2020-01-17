@@ -10,3 +10,5 @@ It is a task queue and I am hoping to learn the following:
 I basically used default broker which is rabbitMQ.
 
 RabbitMQ updated
+today girit
+
